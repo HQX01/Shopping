@@ -28,20 +28,24 @@ module.exports = {
                 use: [MiniCssExtractPlugin.loader, 'css-loader'],
             },
             {
-                test: /\.svg/,
-                type: 'asset/inline',
+                test: /\.(png|svg|jpg|jpeg|gif|ico)$/,
+                exclude: /node_modules/,
+                use: ['file-loader?name=[name].[ext]']
             },
         ],
     },
     plugins: [
+
         new HtmlWebpackPlugin({
             template: './public/index.html',
             filename: 'index.html',
             inject: true,
             minify: true,
         }),
+
+
         new MiniCssExtractPlugin({
-            filename: './css/index.css',
+            filename: './index.css',
         }),
     ],
 };
