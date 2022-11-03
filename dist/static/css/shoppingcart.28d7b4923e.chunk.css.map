@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/shoppingcart.28d7b4923e.chunk.css","mappings":"AAAA,eACI,WACJ","sources":["webpack://shopping/./src/pages/shoppingCartPage/index.css"],"sourcesContent":[".shopping-cart {\n    color: green\n}\n"],"names":[],"sourceRoot":""}
