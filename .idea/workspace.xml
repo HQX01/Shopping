@@ -3,42 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="905a3d6f-f1e2-45a2-99ed-07a8dc621860" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/node_modules_web-vitals_dist_web-vitals_js.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/0.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/dist/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/dist/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/types/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/types/utils.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/css-minimizer-webpack-plugin/types/utils.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-loader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss-loader/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-loader/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss-loader/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-loader/dist/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss-loader/dist/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/postcss-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/postcss-loader/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-refresh/cjs/react-refresh-babel.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-refresh/cjs/react-refresh-babel.development.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-refresh/cjs/react-refresh-babel.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-refresh/cjs/react-refresh-babel.production.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-refresh/cjs/react-refresh-runtime.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-refresh/cjs/react-refresh-runtime.development.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-refresh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-refresh/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sass-loader/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sass-loader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sass-loader/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sass-loader/dist/SassError.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sass-loader/dist/SassError.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sass-loader/dist/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sass-loader/dist/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sass-loader/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sass-loader/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667284701894</updated>
       <workItem from="1667284704572" duration="929000" />
-      <workItem from="1667285749508" duration="23125000" />
+      <workItem from="1667285749508" duration="24317000" />
     </task>
     <servers />
   </component>
