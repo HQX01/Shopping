@@ -20,19 +20,20 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "prepare": "husky install",
-    "commitlint": "commitlint --config commitlint.config.js -e -V"
+    "commitlint": "commitlint --config commitlint.config.js -e -V",
+    "commit": "cz",
+    "test:coverage": "jest --coverage"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   },
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
-  },
-  "lint-staged": {
-    "*.{ts,tsx,json,md}": [
-      "eslint — fix"
-    ],
-    "**/*": "prettier — write — ignore-unknown"
   },
   "browserslist": {
     "production": [
@@ -60,10 +61,12 @@
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.8",
     "babel-loader": "^9.0.1",
     "babel-preset-react-app": "^10.0.1",
+    "commitizen": "^4.2.5",
     "copy-webpack-plugin": "^11.0.0",
     "cross-env": "^7.0.3",
     "css-loader": "^6.7.1",
     "css-minimizer-webpack-plugin": "^4.2.2",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-webpack-plugin": "^3.2.0",
     "html-webpack-plugin": "^5.5.0",
