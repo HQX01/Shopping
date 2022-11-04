@@ -1,10 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
 
-MESSAGE_REGEX="\[#(N/A|E-[0-9]{1,4}|H-[0-9]{1,4}|B-[0-9]{1,4})+\]\s(feat|fix|docs|style|refactor|test|chore):\s[a-zA-Z\.\s]+"
-if [ "$(grep -nE "$MESSAGE_REGEX" "$1")" = "" ]; then
-    echo "commit message does not conform to the specification: $(cat "$1")"
-    exit 1
-else
-    echo "This is a normative message"
-fi
-
+npm run commitlint
