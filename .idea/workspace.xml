@@ -2,9 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="905a3d6f-f1e2-45a2-99ed-07a8dc621860" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/static/css/main.0861f82a42.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-libs.c2cb98b76a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-libs.c2cb98b76a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-react.7450cb3269.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/chunk-react.7450cb3269.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/main.a1f524096d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/main.a1f524096d.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/runtime~$(entrypoint.name).js.6f9cdc9489.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/runtime~$(entrypoint.name).js.6f9cdc9489.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/media/70c129ee2e.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/media/786e48c3b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/media/9998b1db13.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/media/da1912f2ab.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bigpicture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/homePage/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/css/chunk-libs.c88ac0dde4.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/css/chunk-antd.aa4db47ea7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/css/chunk-libs.c88ac0dde4.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/css/chunk-antd.aa4db47ea7.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/css/main.073c9b0ac8.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/css/main.0861f82a42.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/css/main.073c9b0ac8.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/chunk-antd.dce0c66942.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/chunk-antd.dce0c66942.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/chunk-libs.180e0b313b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/chunk-libs.180e0b313b.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/chunk-libs.c2cb98b76a.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/chunk-libs.180e0b313b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/chunk-react.b354f3d193.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/chunk-react.b354f3d193.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/static/js/chunk-react.7450cb3269.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/chunk-react.b354f3d193.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/main.b192c96f32.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/main.b192c96f32.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/runtime~$(entrypoint.name).js.4126a6cbc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/static/js/runtime~$(entrypoint.name).js.4126a6cbc7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +106,7 @@
       <workItem from="1667284704572" duration="929000" />
       <workItem from="1667285749508" duration="24317000" />
       <workItem from="1667529600455" duration="5825000" />
-      <workItem from="1667541793439" duration="6066000" />
+      <workItem from="1667541793439" duration="25433000" />
     </task>
     <servers />
   </component>
