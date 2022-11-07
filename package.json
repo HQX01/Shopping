@@ -22,7 +22,7 @@
     "commitlint": "commitlint --config commitlint.config.js -e -V",
     "commit": "cz",
     "lint-staged": {
-      "*.{js,jsx}": [
+      "*.{js,jsx,json}": [
         "eslint --fix"
       ],
       "**/*": [
