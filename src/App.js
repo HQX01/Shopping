@@ -18,6 +18,7 @@ function App() {
   return (
     <div className="App">
         <span className="iconfont icon-add-cart"></span>
+        <a>
       <img src={logo} className="App-logo" alt="logo" />
       <ul>
         <li>
