@@ -16,6 +16,7 @@ module.exports = {
     "*.json",
     "cypress/*",
     "*.ttf",
-    ".woff2?",
+    "*.woff2",
+      "*.woff"
   ],
 };
