@@ -23,8 +23,8 @@
     "commit": "cz"
   },
   "lint-staged": {
-    "*.{js,jsx,json}, !*{node_modules}": [
-      "eslint --fix"
+    "*.{js,jsx,json}, ": [
+      "eslint \"./src/*/**\" --fix"
     ],
     "**/*": [
       "prettier --write --ignore-unknown"
