@@ -9,4 +9,5 @@ module.exports = {
       ],
     },
   },
+  ignorePatterns: ["node_modules/*", "dist/*", "*.scss", "*.json", "cypress/*"],
 };
