@@ -20,10 +20,13 @@
     "eject": "react-scripts eject",
     "prepare": "husky install",
     "commitlint": "commitlint --config commitlint.config.js -e -V",
-    "commit": "cz"
+    "commit": "cz",
+    "lint": "eslint \"./src/*/**\"\n"
   },
   "lint-staged": {
-    "*.{js,jsx,json}, ": [],
+    "*.{js,jsx,json}, ": [
+      "npm run lint"
+    ],
     "**/*": [
       "prettier --write --ignore-unknown"
     ],
