@@ -22,7 +22,7 @@
     "prepare": "husky install",
     "commitlint": "commitlint --config commitlint.config.js -e -V",
     "commit": "cz",
-    "lint-staged": "eslint \"./src/*/**\" --fix"
+    "lint": "eslint \"./src/*/**\" --fix"
   },
 
   "config": {
