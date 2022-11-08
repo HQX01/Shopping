@@ -21,13 +21,8 @@
     "eject": "react-scripts eject",
     "prepare": "husky install",
     "commitlint": "commitlint --config commitlint.config.js -e -V",
-    "commit": "cz"
-  },
-  "lint-staged": {
-    "/src/*/**": [
-      "eslint --fix"
-    ],
-    "**/*": "prettier --write --ignore-unknown"
+    "commit": "cz",
+    "lint": "eslint \"./src/*/**\" --fix"
   },
   "config": {
     "commitizen": {
