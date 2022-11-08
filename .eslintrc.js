@@ -1,5 +1,9 @@
 module.exports = {
-  extends: ["react-app"], //继承react官方规则
+  extends: [
+      "react-app", 
+      'plugin:react/recommended',
+      'airbnb',
+  ], //继承react官方规则
   parserOptions: {
     babelOptions: {
       presets: [

@@ -17,6 +17,7 @@
     "start": "npm run dev",
     "build": "cross-env NODE_ENV=production webpack --config ./config/webpack.prod.js",
     "test": "react-scripts test",
+    "test:coverage": "react-scripts test --coverage",
     "eject": "react-scripts eject",
     "prepare": "husky install",
     "commitlint": "commitlint --config commitlint.config.js -e -V",
