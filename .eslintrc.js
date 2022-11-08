@@ -1,26 +1,22 @@
 module.exports = {
-  extends: [
-      "react-app", 
-      'plugin:react/recommended',
-      'airbnb',
-  ], //继承react官方规则
-  parserOptions: {
-    babelOptions: {
-      presets: [
-        //解决页面报错问题
-        ["babel-preset-react-app", false],
-        "babel-preset-react-app/prod",
-      ],
+    "env": {
+        "browser": true,
+        "es2021": true
     },
-  },
-  ignorePatterns: [
-    "node_modules/*",
-    "dist/*",
-    "*.css",
-    "*.json",
-    "cypress/*",
-    "*.ttf",
-    "*.woff2",
-    "*.woff"
-  ],
-};
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended"
+    ],
+    "overrides": [
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    ignorePatterns: ['node_modules/*', 'dist/*', '*.css', '*.json', 'cypress/*', '*.woff', '*.woff2', '*.ttf'],
+    "rules": {
+    }
+}
