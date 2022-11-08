@@ -24,9 +24,6 @@
     "lint": "eslint \"./src/*/**\"\n"
   },
   "lint-staged": {
-    "*.{js,jsx,json}, ": [
-      "npm run lint"
-    ],
     "**/*": [
       "prettier --write --ignore-unknown"
     ],
