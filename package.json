@@ -22,8 +22,9 @@
     "prepare": "husky install",
     "commitlint": "commitlint --config commitlint.config.js -e -V",
     "commit": "cz",
-    "lint": "eslint \"./src/*/**\" --fix"
+    "lint-staged": "eslint \"./src/*/**\" --fix"
   },
+
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
