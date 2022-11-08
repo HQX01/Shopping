@@ -21,7 +21,7 @@
     "prepare": "husky install",
     "commitlint": "commitlint --config commitlint.config.js -e -V",
     "commit": "cz",
-    "lint": "eslint \"./src/*/**\"\n"
+    "lint": "eslint \"./src/*/**\" --fix"
   },
   "config": {
     "commitizen": {
