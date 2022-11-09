@@ -1,18 +1,14 @@
-import "./App.css";
-import React, { Suspense, lazy } from "react";
-import { Link, Routes, Route } from "react-router-dom";
-//import HomePage from "./pages/homePage";
-//import ShoppingCartPage from "./pages/shoppingCartPage";
-import logo from "./logo.svg";
-import bigpicture from "./bigpicture.png";
-import "./iconfont.css";
+import './App.css';
+import React, { Suspense, lazy } from 'react';
+import { Link, Routes, Route } from 'react-router-dom';
+// import HomePage from "./pages/homePage";
+// import ShoppingCartPage from "./pages/shoppingCartPage";
+import logo from './logo.svg';
+import bigpicture from './bigpicture.png';
+import './iconfont.css';
 
-const Home = lazy(() =>
-  import(/*webpackChunkName: 'home' */ "./pages/homePage")
-);
-const ShoppingCart = lazy(() =>
-  import(/*webpackChunkName: 'shoppingcart' */ "./pages/shoppingCartPage")
-);
+const Home = lazy(() => import(/* webpackChunkName: 'home' */ './pages/homePage'));
+const ShoppingCart = lazy(() => import(/* webpackChunkName: 'shoppingcart' */ './pages/shoppingCartPage'));
 
 function App() {
   return (
