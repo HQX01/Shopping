@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkshopping=self.webpackChunkshopping||[]).push([[311],{545:function(n,e,t){t.r(e),t.d(e,{default:function(){return r}});var p=t(294);function r(){return p.createElement("h1",{className:"shopping-cart"},"ShoppingCart")}}}]);
-//# sourceMappingURL=shoppingcart.9175741547.chunk.js.map

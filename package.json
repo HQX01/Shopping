@@ -24,7 +24,7 @@
     "commit": "cz"
   },
   "lint-staged": {
-    "/src/*.{js, jsx}": [
+    "./src/*.{js, jsx}": [
       "eslint --fix",
       "prettier --write --ignore-unknown"
     ]
