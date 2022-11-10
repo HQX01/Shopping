@@ -37,7 +37,7 @@ const getStyleLoaders = (pre) => {
 
 
 module.exports = {
-    entry: './src/index.js',
+    entry: './src/index.jsx',
     output: {
         path: path.resolve(__dirname, '../dist'),
         filename: "static/js/[name].[contenthash:10].js",

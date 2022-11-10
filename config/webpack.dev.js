@@ -33,7 +33,7 @@ const getStyleLoaders = (pre) => {
 
 
 module.exports = {
-    entry: './src/index.js',
+    entry: './src/index.jsx',
     output: {
         path: undefined,
         filename: "static/js/[name].js",
