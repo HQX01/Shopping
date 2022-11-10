@@ -24,11 +24,4 @@ module.exports = {
     ignorePatterns: ['node_modules/*', 'dist/*', '*.css', '*.json', 'cypress/*', '*.woff', '*.woff2', '*.ttf'],
     "rules": {
     }
-    settings: {
-        'import/resolver': {
-            webpack: {
-                config: path.join(__dirname, './webpack.dev.js'),
-            },
-        },
-    },
 }
