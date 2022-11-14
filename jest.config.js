@@ -23,10 +23,10 @@ module.exports = {
 
   coverageThreshold: {
     './src/': {
-      branches: 20,
-      functions: 20,
-      lines: 20,
-      statements: 20,
+      branches: 100,
+      functions: 100,
+      lines: 100,
+      statements: 100,
     },
   },
   // All imported modules in your tests should be mocked automatically

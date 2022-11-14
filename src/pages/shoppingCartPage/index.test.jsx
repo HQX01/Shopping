@@ -4,7 +4,7 @@ import { render, screen } from '@testing-library/react';
 import ShoppingCartPage from './index';
 import { jest } from '@jest/globals';
 
-test('renders learn react link', () => {
+test('should show ShoppingCart in the screen', () => {
     render(<ShoppingCartPage />);
     expect(screen.getByText('ShoppingCart')).toBeInTheDocument();
 });
