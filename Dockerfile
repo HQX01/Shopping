@@ -1,5 +1,5 @@
 # pull official base image
-FROM node:16.0.0-alpine
+FROM node:16.15.1-alpine
 
 # set working directory
 WORKDIR /Shopping
